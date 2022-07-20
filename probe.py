@@ -98,4 +98,5 @@ print("--------------------------")
 simle_iteration(a, b, e)
 print("--------------------------")
 relax(a, b, e)
+print("git")
 
